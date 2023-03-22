@@ -24,8 +24,12 @@ namespace STAJ_PROJECT
 
         private void button1_Click(object sender, EventArgs e)
         {
-            System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\Properties\click.wav");
-            sound.Play();
+            try
+            {
+                System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\Properties\click.wav");
+                sound.Play();
+            }
+            catch { };
             int a = int.Parse(trackBar1.Value.ToString());
             int fast = (checkBox1.Checked) ? 1 : 0;
             int one = (checkBox2.Checked) ? 1 : 0;
@@ -52,8 +56,12 @@ namespace STAJ_PROJECT
         private void trackBar1_ValueChanged(object sender, EventArgs e)
         {
             trackBar1.Value = trackBar1.Value - (trackBar1.Value % 100);//trackBar can  take undefined values so we do it
-            System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\Properties\track_bar_click.wav");
-            sound.Play();
+            try
+            {
+                System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\Properties\track_bar_click.wav");
+                sound.Play();
+            }
+            catch { };
         }
 
         private void trackBar1_MouseEnter(object sender, EventArgs e)
@@ -63,20 +71,31 @@ namespace STAJ_PROJECT
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-            System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\Properties\track_bar_click.wav");
-            sound.Play();
+            try
+            {
+                System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\Properties\track_bar_click.wav");
+                sound.Play();
+            }
+            catch { };
         }
 
         private void checkBox2_CheckedChanged(object sender, EventArgs e)
         {
+            try { 
             System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\Properties\track_bar_click.wav");
             sound.Play();
+            }
+            catch { };
         }
 
         private void checkBox3_CheckedChanged(object sender, EventArgs e)
         {
+            try
+            {
             System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\Properties\track_bar_click.wav");
             sound.Play();
+            }
+            catch { };
         }
     }
 }

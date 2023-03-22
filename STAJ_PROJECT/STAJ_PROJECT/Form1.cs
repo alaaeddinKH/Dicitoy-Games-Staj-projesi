@@ -24,8 +24,12 @@ namespace STAJ_PROJECT
 
         private void btn_exit_Click(object sender, EventArgs e)
         {
-            System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\Properties\click.wav");
-            sound.Play();
+            try
+            {
+                System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\Properties\click.wav");
+                sound.Play();
+            }
+            catch { };
             this.Close();
         }
 
@@ -33,9 +37,13 @@ namespace STAJ_PROJECT
 
         private void btn_start_Click(object sender, EventArgs e)
         {
-            Form2 table_selector = new Form2();
+            Form2 table_selector = new Form2(); try { 
             System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\Properties\click.wav");
             sound.Play();
+            }
+            catch { };
+
+
             try
             {
                 for (i = 200; i <= 5000; i += 100)// all bet probability
@@ -68,14 +76,21 @@ namespace STAJ_PROJECT
 
         private void btn_start_MouseHover(object sender, EventArgs e)
         {
-            System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\Properties\hover.wav");
-            sound.Play();
+            try 
+            {
+                System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\Properties\hover.wav");
+                sound.Play();
+            }
+            catch { };
         }
 
         private void btn_exit_MouseHover(object sender, EventArgs e)
         {
+            try { 
             System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\Properties\hover.wav");
             sound.Play();
+            }
+            catch { };
         }
     }
 }

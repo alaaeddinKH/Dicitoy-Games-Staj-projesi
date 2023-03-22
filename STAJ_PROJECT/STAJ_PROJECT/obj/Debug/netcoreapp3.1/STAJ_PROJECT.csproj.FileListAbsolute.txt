@@ -16,3 +16,21 @@ D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\obj\Debug\netcoreapp3.1\STAJ_PR
 D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\obj\Debug\netcoreapp3.1\STAJ_PROJECT.Properties.Resources.resources
 D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\obj\Debug\netcoreapp3.1\STAJ_PROJECT.Form2.resources
 D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\obj\Debug\netcoreapp3.1\STAJ_PROJECT.start_page.resources
+D:\Dosyam\github\Dicitoy-Games-Staj-projesi\STAJ_PROJECT\STAJ_PROJECT\bin\Debug\netcoreapp3.1\STAJ_PROJECT.exe
+D:\Dosyam\github\Dicitoy-Games-Staj-projesi\STAJ_PROJECT\STAJ_PROJECT\bin\Debug\netcoreapp3.1\STAJ_PROJECT.deps.json
+D:\Dosyam\github\Dicitoy-Games-Staj-projesi\STAJ_PROJECT\STAJ_PROJECT\bin\Debug\netcoreapp3.1\STAJ_PROJECT.runtimeconfig.json
+D:\Dosyam\github\Dicitoy-Games-Staj-projesi\STAJ_PROJECT\STAJ_PROJECT\bin\Debug\netcoreapp3.1\STAJ_PROJECT.runtimeconfig.dev.json
+D:\Dosyam\github\Dicitoy-Games-Staj-projesi\STAJ_PROJECT\STAJ_PROJECT\bin\Debug\netcoreapp3.1\STAJ_PROJECT.dll
+D:\Dosyam\github\Dicitoy-Games-Staj-projesi\STAJ_PROJECT\STAJ_PROJECT\bin\Debug\netcoreapp3.1\STAJ_PROJECT.pdb
+D:\Dosyam\github\Dicitoy-Games-Staj-projesi\STAJ_PROJECT\STAJ_PROJECT\obj\Debug\netcoreapp3.1\STAJ_PROJECT.csproj.AssemblyReference.cache
+D:\Dosyam\github\Dicitoy-Games-Staj-projesi\STAJ_PROJECT\STAJ_PROJECT\obj\Debug\netcoreapp3.1\STAJ_PROJECT.start_page.resources
+D:\Dosyam\github\Dicitoy-Games-Staj-projesi\STAJ_PROJECT\STAJ_PROJECT\obj\Debug\netcoreapp3.1\STAJ_PROJECT.Form2.resources
+D:\Dosyam\github\Dicitoy-Games-Staj-projesi\STAJ_PROJECT\STAJ_PROJECT\obj\Debug\netcoreapp3.1\STAJ_PROJECT.Properties.Resources.resources
+D:\Dosyam\github\Dicitoy-Games-Staj-projesi\STAJ_PROJECT\STAJ_PROJECT\obj\Debug\netcoreapp3.1\STAJ_PROJECT.csproj.GenerateResource.cache
+D:\Dosyam\github\Dicitoy-Games-Staj-projesi\STAJ_PROJECT\STAJ_PROJECT\obj\Debug\netcoreapp3.1\STAJ_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dosyam\github\Dicitoy-Games-Staj-projesi\STAJ_PROJECT\STAJ_PROJECT\obj\Debug\netcoreapp3.1\STAJ_PROJECT.AssemblyInfoInputs.cache
+D:\Dosyam\github\Dicitoy-Games-Staj-projesi\STAJ_PROJECT\STAJ_PROJECT\obj\Debug\netcoreapp3.1\STAJ_PROJECT.AssemblyInfo.cs
+D:\Dosyam\github\Dicitoy-Games-Staj-projesi\STAJ_PROJECT\STAJ_PROJECT\obj\Debug\netcoreapp3.1\STAJ_PROJECT.csproj.CoreCompileInputs.cache
+D:\Dosyam\github\Dicitoy-Games-Staj-projesi\STAJ_PROJECT\STAJ_PROJECT\obj\Debug\netcoreapp3.1\STAJ_PROJECT.dll
+D:\Dosyam\github\Dicitoy-Games-Staj-projesi\STAJ_PROJECT\STAJ_PROJECT\obj\Debug\netcoreapp3.1\STAJ_PROJECT.pdb
+D:\Dosyam\github\Dicitoy-Games-Staj-projesi\STAJ_PROJECT\STAJ_PROJECT\obj\Debug\netcoreapp3.1\STAJ_PROJECT.genruntimeconfig.cache

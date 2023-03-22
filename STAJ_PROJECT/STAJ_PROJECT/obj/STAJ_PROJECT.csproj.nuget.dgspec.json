@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dosyam\\STAJ PROJESI\\STAJ_PROJECT\\STAJ_PROJECT\\STAJ_PROJECT.csproj": {}
+    "D:\\Dosyam\\github\\Dicitoy-Games-Staj-projesi\\STAJ_PROJECT\\STAJ_PROJECT\\STAJ_PROJECT.csproj": {}
   },
   "projects": {
-    "D:\\Dosyam\\STAJ PROJESI\\STAJ_PROJECT\\STAJ_PROJECT\\STAJ_PROJECT.csproj": {
+    "D:\\Dosyam\\github\\Dicitoy-Games-Staj-projesi\\STAJ_PROJECT\\STAJ_PROJECT\\STAJ_PROJECT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dosyam\\STAJ PROJESI\\STAJ_PROJECT\\STAJ_PROJECT\\STAJ_PROJECT.csproj",
+        "projectUniqueName": "D:\\Dosyam\\github\\Dicitoy-Games-Staj-projesi\\STAJ_PROJECT\\STAJ_PROJECT\\STAJ_PROJECT.csproj",
         "projectName": "STAJ_PROJECT",
-        "projectPath": "D:\\Dosyam\\STAJ PROJESI\\STAJ_PROJECT\\STAJ_PROJECT\\STAJ_PROJECT.csproj",
+        "projectPath": "D:\\Dosyam\\github\\Dicitoy-Games-Staj-projesi\\STAJ_PROJECT\\STAJ_PROJECT\\STAJ_PROJECT.csproj",
         "packagesPath": "C:\\Users\\ALAAEDDIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Dosyam\\STAJ PROJESI\\STAJ_PROJECT\\STAJ_PROJECT\\obj\\",
+        "outputPath": "D:\\Dosyam\\github\\Dicitoy-Games-Staj-projesi\\STAJ_PROJECT\\STAJ_PROJECT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
