@@ -26,7 +26,7 @@ namespace STAJ_PROJECT
         {
             try
             {
-                System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\Properties\click.wav");
+                System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"STAJ_PROJECT\Properties\click.wav");
                 sound.Play();
             }
             catch { };
@@ -58,7 +58,7 @@ namespace STAJ_PROJECT
             trackBar1.Value = trackBar1.Value - (trackBar1.Value % 100);//trackBar can  take undefined values so we do it
             try
             {
-                System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\Properties\track_bar_click.wav");
+                System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"STAJ_PROJECT\Properties\track_bar_click.wav");
                 sound.Play();
             }
             catch { };
@@ -73,7 +73,7 @@ namespace STAJ_PROJECT
         {
             try
             {
-                System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\Properties\track_bar_click.wav");
+                System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"STAJ_PROJECT\Properties\track_bar_click.wav");
                 sound.Play();
             }
             catch { };
@@ -82,7 +82,7 @@ namespace STAJ_PROJECT
         private void checkBox2_CheckedChanged(object sender, EventArgs e)
         {
             try { 
-            System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\Properties\track_bar_click.wav");
+            System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"STAJ_PROJECT\Properties\track_bar_click.wav");
             sound.Play();
             }
             catch { };
@@ -92,7 +92,7 @@ namespace STAJ_PROJECT
         {
             try
             {
-            System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\Properties\track_bar_click.wav");
+            System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"STAJ_PROJECT\Properties\track_bar_click.wav");
             sound.Play();
             }
             catch { };

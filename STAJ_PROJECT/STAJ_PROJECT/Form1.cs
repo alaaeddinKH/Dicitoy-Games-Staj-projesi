@@ -26,7 +26,7 @@ namespace STAJ_PROJECT
         {
             try
             {
-                System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\Properties\click.wav");
+                System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"STAJ_PROJECT\Properties\click.wav");
                 sound.Play();
             }
             catch { };
@@ -38,7 +38,7 @@ namespace STAJ_PROJECT
         private void btn_start_Click(object sender, EventArgs e)
         {
             Form2 table_selector = new Form2(); try { 
-            System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\Properties\click.wav");
+            System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"STAJ_PROJECT\Properties\click.wav");
             sound.Play();
             }
             catch { };
@@ -78,7 +78,7 @@ namespace STAJ_PROJECT
         {
             try 
             {
-                System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\Properties\hover.wav");
+                System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"STAJ_PROJECT\Properties\hover.wav");
                 sound.Play();
             }
             catch { };
@@ -87,7 +87,7 @@ namespace STAJ_PROJECT
         private void btn_exit_MouseHover(object sender, EventArgs e)
         {
             try { 
-            System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"D:\Dosyam\STAJ PROJESI\STAJ_PROJECT\STAJ_PROJECT\Properties\hover.wav");
+            System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"STAJ_PROJECT\Properties\hover.wav");
             sound.Play();
             }
             catch { };
